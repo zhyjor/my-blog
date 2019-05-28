@@ -55,10 +55,10 @@
 
 
 
+## qq群
+<img width="360px" src="http://static.zhyjor.com/QQ2019-qun.png">
 
-
-
-# 欢迎关注我的公众号
-![](http://oankigr4l.bkt.clouddn.com/wexin.png)
+## 欢迎关注公众号
+![](http://static.zhyjor.com/wexin.png)
 
 
